@@ -1,0 +1,12 @@
+{
+  "appId": "com.varun.smartplug",
+  "appName": "Plug",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
